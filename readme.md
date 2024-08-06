@@ -22,8 +22,7 @@ Project status: ✅Done
 
 ### 📝 Features
 
-- [x] Manual Generating Number
-- [x] Automatic Generating Number
+- [x] Convert weight from kg to pounds
 
 ### 🧐 Demonstration
 
